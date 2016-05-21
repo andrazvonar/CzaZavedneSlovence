@@ -20,3 +20,8 @@
 #define dnatisnio fprintf
 #define dskenirajo fscanf
 #define DATOTEKA FILE
+#define NIC NULL
+#define KD EOF
+#define dodpri fopen
+#define dzapri fclose
+#define dberi fread
