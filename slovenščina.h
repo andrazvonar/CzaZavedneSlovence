@@ -1,3 +1,11 @@
+/*++
+
+    C header datoteka ta zavedne Slovence, ki želijo programirati v najlepšem
+    jeziku.
+
+--*/
+
+
 #define za for
 #define dokler while
 #define znak char
