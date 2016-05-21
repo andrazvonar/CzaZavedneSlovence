@@ -21,7 +21,7 @@
 #define primer case
 #define dodelispomin malloc
 #define sprosti free
-#define sizeof velikost
+#define velikost sizeof
 #define glavni main
 #define natisnio printf
 #define skenirajo scanf
