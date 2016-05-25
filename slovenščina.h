@@ -33,3 +33,5 @@
 #define dodpri fopen
 #define dzapri fclose
 #define dberi fread
+#define struktura struct
+#define definirajtip typedef
