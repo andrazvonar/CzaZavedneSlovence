@@ -11,15 +11,15 @@
 #define znak char
 #define celo int
 #define plavajoce float
-#define realno double
+#define dvojno double
 #define dolgo long
 #define vrni return
 #define ce if
 #define sicer else
 #define prazno void
-#define zamenjaj switch
+#define izberi switch
 #define primer case
-#define dodelispomin malloc
+#define pdodeli malloc
 #define sprosti free
 #define velikost sizeof
 #define glavni main
@@ -34,4 +34,4 @@
 #define dzapri fclose
 #define dberi fread
 #define struktura struct
-#define definirajtip typedef
+#define doltip typedef
