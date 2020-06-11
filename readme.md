@@ -9,10 +9,10 @@
 celo glavni() {
 
   celo a = 12;
-  realno b = 1.0;
+  dvojno b = 1.0;
 
   znak niz[] = "slovenščina";
-  celo *seznam = dodelispomin(5 * velikost(celo));
+  celo *seznam = pdodeli(6 * velikost(celo));
 
   ce (seznam == NIC) {
     natisnio("Premalo spomina");
@@ -20,14 +20,15 @@ celo glavni() {
   }
 
   za (celo i = 0; i < 5; i++) {
-    seznam[i] = i;
+    seznam[i] = 65 + i;
   }
-
-  znak z = " ";
+  seznam[5] = 0;
+  
+  znak z = ' ';
   celo stevec = 0;
   dokler (z != '\0') {
-    z = seznam[stevec];
     natisnio("%c ", z);
+    z = seznam[stevec];
     stevec++;
   }
 
