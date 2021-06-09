@@ -1,6 +1,6 @@
 /*++
 
-    C header datoteka ta zavedne Slovence, ki želijo programirati v najlepšem
+    C header datoteka za zavedne Slovence, ki želijo programirati v najlepšem
     jeziku.
 
 --*/
