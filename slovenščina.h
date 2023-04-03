@@ -30,6 +30,8 @@
 #define skenirajo scanf
 #define dnatisnio fprintf
 #define dskenirajo fscanf
+#define nnatisnio sprintf
+#define nskenirajo sscanf
 #define DATOTEKA FILE
 #define NIC NULL
 #define KD EOF
