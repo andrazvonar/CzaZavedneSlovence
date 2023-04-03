@@ -40,3 +40,8 @@
 #define dberi fread
 #define struktura struct
 #define doltip typedef
+#define nizdol strlen
+#define nizkop strcpy
+#define nizdod strcat
+#define nizprm strcmp
+#define nizniz strstr
