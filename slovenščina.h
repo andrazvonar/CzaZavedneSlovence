@@ -20,7 +20,7 @@
 #define izberi switch
 #define primer case
 #define privzeto default
-#define zlomi break
+#define prekini break
 #define nadaljuj continue
 #define pdodeli malloc
 #define sprosti free
