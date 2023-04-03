@@ -19,6 +19,9 @@
 #define prazno void
 #define izberi switch
 #define primer case
+#define privzeto default
+#define zlomi break
+#define nadaljuj continue
 #define pdodeli malloc
 #define sprosti free
 #define velikost sizeof
