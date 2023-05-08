@@ -19,6 +19,9 @@
 #define prazno void
 #define izberi switch
 #define primer case
+#define privzeto default
+#define prekini break
+#define nadaljuj continue
 #define pdodeli malloc
 #define sprosti free
 #define velikost sizeof
@@ -27,6 +30,8 @@
 #define skenirajo scanf
 #define dnatisnio fprintf
 #define dskenirajo fscanf
+#define nnatisnio sprintf
+#define nskenirajo sscanf
 #define DATOTEKA FILE
 #define NIC NULL
 #define KD EOF
@@ -35,3 +40,8 @@
 #define dberi fread
 #define struktura struct
 #define doltip typedef
+#define nizdol strlen
+#define nizkop strcpy
+#define nizdod strcat
+#define nizprm strcmp
+#define nizniz strstr
