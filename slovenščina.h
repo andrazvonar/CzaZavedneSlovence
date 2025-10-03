@@ -45,3 +45,16 @@
 #define nizdod strcat
 #define nizprm strcmp
 #define nizniz strstr
+#define nepredznačena unsigned
+#define predznačena signed
+#define avto auto
+#define hlapljiva volatile
+#define konst const
+#define naredi do
+#define zunanja extern
+#define oštevilč enum
+#define pojdina goto
+#define vvrstično inline
+#define prepovej restrict
+#define trajna static
+#define združba union
