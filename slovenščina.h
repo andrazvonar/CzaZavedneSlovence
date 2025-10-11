@@ -14,7 +14,7 @@
 #define dvojno double
 #define dolgo long
 #define vrni return
-#define ce if
+#define če if
 #define sicer else
 #define prazno void
 #define izberi switch
