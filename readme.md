@@ -14,7 +14,7 @@ celo glavni() {
   znak niz[] = "slovenščina";
   celo *seznam = pdodeli(6 * velikost(celo));
 
-  ce (seznam == NIC) {
+  če (seznam == NIC) {
     natisnio("Premalo spomina");
     vrni 1;
   }
